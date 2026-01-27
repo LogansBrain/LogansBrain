@@ -3,8 +3,8 @@
 - My main languages were: BASIC(A), IBM Pascal, Macro Assembler and later Turbo Pascal, Turbo C/C++/ASM
 - In the 90s I did some Windows application development primarily using Delphi, Visual BASIC and Access/SQL.
 - Lately I have been goofing around with Python & GoDot as well as learning scripting in BASH and POWERSHELL.
-- I am interesting in networking / security. (Blue/Red Team, Penetration Testing, OSINT, Social Engineering).
 - I am familiar with PC/MS/DR-DOS, Windows, MacOS, and Linux with some experience in Minix, UNIX,  CP/M, OS/2, and AmigaOS.
+- I am interesting in systems programming, application development, DBMS, networking, and security (OSINT, Blue/Red Team, Penetration Testing, Social Engineering).
 
 <!---
 LogansBrain/LogansBrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
