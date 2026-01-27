@@ -2,8 +2,9 @@
 - I started programming on an IBM PC running IBM-DOS 1.01
 - My main languages were: BASIC(A), IBM Pascal, Macro Assembler and later Turbo Pascal, Turbo C/C++/ASM
 - In the 90s I did some Windows programming primarily Delphi, Visual BASIC and Access/SQL.
-- After spending a lot of time away from the technical side of computers, I am looking to learn new programming concepts, techniques and languages. I am also looking to expand my networking and security knowledge.
-- Lately I have been goofing around with Python & GoDot and Scripting in POWERSHELL as well as BASH.
+- After spending a lot of time away from the technical side of computers, I am looking to learn new programming concepts, techniques and languages.
+- Lately I have been goofing around with Python & GoDot as well as Scripting in POWERSHELL and BASH.
+- I am also interesting networking and security. (Blue/Red Team, Penetration Testing, OSINT, Social Engineering).
 - Other operating systems I have play with include Minix, OS/2, Unix with a current focus on Linux.
 
 <!---
