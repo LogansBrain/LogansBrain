@@ -4,7 +4,7 @@
 - In the 90s I did some Windows application development primarily using Delphi, Visual BASIC and Access/SQL.
 - Lately I have been goofing around with Python, Go & GoDot as well as learning scripting in BASH and POWERSHELL.
 - I am familiar with PC/MS/DR-DOS, Windows, MacOS, and Linux with some experience in Minix, UNIX,  CP/M, OS/2, and AmigaOS.
-- I am interesting in systems programming, application development, DBMS, networking, and security (Penetration Testing/Social Engineering).
+- I am interesting in systems programming, application development, DBMS, networking, and cyber security.
 
 <!---
 LogansBrain/LogansBrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
