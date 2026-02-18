@@ -4,8 +4,8 @@
 - I also did some Windows application development primarily using Delphi, Visual BASIC and Access/SQL.
 - I am familiar with PC/MS/DR-DOS, Windows, MacOS, and Linux.
 - I am interesting in systems programming, application development, DBMS, networking, and cyber security.
-- Lately I have been goofing around with Python, GoDot.
-- My future goals are to learn Go and RUST.
+- Lately I have been focused on learning Python, RUST, GoDot, and Go.
+- My homelab consists of several Windows/Apple/Linux workstations, a Linux/Apache/MariaDB/PHP and Linux/Flask/MongoDB/Python server for testing.
 
 <!---
 LogansBrain/LogansBrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
