@@ -4,7 +4,7 @@
 - I also did some Windows application development primarily using Delphi, Visual BASIC and Access/SQL.
 - I am familiar with PC/MS/DR-DOS, Windows, MacOS, and Linux.
 - I am interesting in systems programming, application development, DBMS, networking, and cyber security.
-- Lately I have been focused on learning Python, RUST, and playing around in GoDot. I'd also like to take look at the Go language soon.
+- Lately I have been focused on learning Python, RUST, and playing around in GoDot.
 - My homelab consists of several Windows/Apple/Linux workstations, a Linux (debian)/Apache/MariaDB/PHP server as well as a Linux (Ubuntu)/Flask/MongoDB/Python server for testing.
 
 <!---
